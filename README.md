@@ -1,6 +1,6 @@
 # Menu de Navegação Lateral 
 
-Este projeto é um menu de navegação lateral, ou comumente conhecido como sidebar, desenvoldido com
+Este projeto é um menu de navegação lateral, ou comumente conhecido como sidebar, desenvolvido com
 HTML5, CSS3 e Javascript, possui um design responsivo, atraente e minimalista.
 
 ## Visão Geral
